@@ -1,0 +1,10 @@
+ACC: 1.0  Precision: 1.0   Recall: 1.0
+ACC: 0.75  Precision: 0.3333333333333333   Recall: 1.0
+ACC: 0.8571428571428571  Precision: 0.5   Recall: 1.0
+ACC: 0.7142857142857143  Precision: 0.6666666666666666   Recall: 0.6666666666666666
+ACC: 0.8571428571428571  Precision: 0.75   Recall: 1.0
+ACC: 1.0  Precision: 1.0   Recall: 1.0
+ACC: 0.8571428571428571  Precision: 0.0   Recall: 0.0
+ACC: 0.8571428571428571  Precision: 1.0   Recall: 0.6666666666666666
+ACC: 0.7142857142857143  Precision: 1.0   Recall: 0.3333333333333333
+
